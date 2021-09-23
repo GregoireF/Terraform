@@ -11,25 +11,10 @@
 
 ### :coffee: A little history behind this project...
 
-[Terraform](https://www.terraform.io/) allows you to manage a lot of aspects of Github in an automatic and secure way (create branches, secure branches, create users to the organization,...)<br>With [Terraform](https://www.terraform.io/), you can get through the whole project management and human resources part autonomously and quickly.<br>I wanted to implement [Terraform](https://www.terraform.io/) in a personal setting as well as in [WebReady Projects](https://github.com/WebReadyProjects/) to provide a fast system to make project and human resource management really fast.
+[Terraform](https://www.terraform.io/) allows you to manage a lot of aspects of Github in an automatic and secure way (create branches, secure branches, create users to the organization,...)<br>With [Terraform](https://www.terraform.io/), you can get through the whole project management and human resources part autonomously and quickly.<br>I wanted to implement [Terraform](https://www.terraform.io/) in a personal setting as well as in [WebReady Projects](https://github.com/WebReadyProjects/) to provide a fast system to make project and human resource management really fast.<br>This project is a draft of [Terraform's](https://www.terraform.io/) capability for multiple Github project management, which you can now use as needed.
 
 ##
 
 ### :page_facing_up: Docs
 
 Please refer to [Terraform](https://www.terraform.io/) which provides good documentation.
-
-##
-
-### :superhero: Become a contributor
-
-Developers interested in contributing should read the [Code of Conduct](https://github.com/GregoireF/Terraform/blob/main/.github/CODE_OF_CONDUCT.md) and the [Contribution Guide](https://google.com).
-
-> Please do **not** ask general questions in an issue. Issues are only to report bugs, suggest
-> enhancements, or request new features.
-
-##
-
-### :earth_africa: Used by
-
-[![GitHub contributors](https://avatars.githubusercontent.com/u/84878971?s=60&v=4)](https://github.com/WebReadyProjects)
