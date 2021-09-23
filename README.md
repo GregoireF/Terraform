@@ -11,6 +11,19 @@
 
 ##
 
+### :rocket: Get Started
+- Check out [the Hashi Corp tutorial](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+- Go to your Github settings, then to the "Developer Settings" tab, then create a new key with the appropriate settings checked.
+- Once the [repo download](https://github.com/GregoireF/Terraform/releases) is on your computer, launch your code editor and go to init.tf to modify the `token` `owner` fields
+- Run the command `terraform init` then `terraform plan` then `terraform apply` and you will see the magic happen :mage:
+
+##
+
 ### :page_facing_up: Docs
 
 Please refer to [Terraform](https://www.terraform.io/) which provides good documentation.
+
+##
+### :warning: Warning
+
+This project is used in the context of a minimal management of multiple diverse projects. If you wish to use it in a production organisation, please contact [the Terraform documentation](https://www.terraform.io/)
