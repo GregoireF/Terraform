@@ -11,5 +11,5 @@ terraform {
 # Configure the Github Provider
 provider "github" {
   token        = "YOUR_TOKEN_GITHUB"
-  owner        = "GregoireF"
+  owner        = "USER OR ORGANIZATION" # e.g : owner = "GregoireF" or owner = "Google"
 }
